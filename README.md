@@ -3,6 +3,10 @@ E27 Project
 
 This project was created for ENGR 027, Computer Vision at Swarthmore College, 
 By Evan Greene and Mollie Wild. Its purpose is to aid the identification of leaves. 
+This code is intended as a demonstration of skill and of principles; it has no user
+interface and is therefore unsuited to practical use. For practical use, I 
+recommend LeafSnap, a guide assembled by researchers at Columbia University, 
+the University of Maryland, and the Smithsonian Institute. 
 
 It uses the LeafSnap (http://leafsnap.com) dataset, as well as some of the methods 
 used by the authors of that project. 
